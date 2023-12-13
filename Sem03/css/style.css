@@ -1,0 +1,86 @@
+header {
+    text-decoration: none;
+}
+
+body {
+    text-decoration: none;
+}
+
+.background {
+    text-decoration: none;
+}
+
+.main-header {
+    text-decoration: none;
+}
+
+.nav-menu {
+    text-decoration: none;
+}
+
+.nav-menu-logo {
+    color: #F25822;
+font-family: Gilroy-Bold;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.nav-menu-span {
+    color: #000;
+    font-family: Gilroy-Medium;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.nav-menu-link {
+    
+    color: #F25822;
+font-family: Gilroy-SemiBold;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.main-content {
+    text-decoration: none;
+}
+
+.left-part {
+    text-decoration: none;
+}
+
+.title {
+    text-decoration: none;
+}
+
+.description {
+    text-decoration: none;
+}
+
+.push-button {
+    text-decoration: none;
+}
+
+.second-button {
+    text-decoration: none;
+}
+
+.right-part {
+    text-decoration: none;
+}
+
+.nav-footer {
+    width: 1920px;
+    height: 243px;
+    flex-shrink: 0;
+}
+
+.logo-partner {
+    background: url(<path-to-image>),
+        lightgray 50% / cover no-repeat;
+}
